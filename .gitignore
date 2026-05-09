@@ -1,0 +1,28 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Node
+node_modules/
+dist/
+dist-ssr
+*.local
+.eslintcache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp/Portable tools
+temp/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
